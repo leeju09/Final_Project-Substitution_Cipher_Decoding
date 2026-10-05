@@ -44,6 +44,7 @@ Manual updates to the mapping dictionary are made whenever analysis strongly sug
 Final decoded Message:
 
 The decoded text is the famous "Holy hand Grenade of Antioch" speech from Monty Python and the Holy Grail:
+
 and st attila raised his hand grenade up on high saying o lord bless this thy hand grenade that with it thou mayest blow thine enemies to tiny bits in thy mercy and the lord did grin and people did feast upon the lambs and sloths and carp and anchovies and orangutans and breakfast cereals and fruit bats and the lord spake saying first shalt thou take out the holy pin then shalt thou count to three no more no less three shalt be the number thou shalt count and the number of the counting shalt be three four shalt thou not count neither count thou two epcepting that thou then proceed to three five is right out once the number three being the third number be reached then lobbest thou thy holy hand grenade of antioch towards thou foe who being naughty in my sight shall snuff it.
 
 ---
