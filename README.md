@@ -55,7 +55,10 @@ and st attila raised his hand grenade up on high saying o lord bless this thy ha
 
 ---
  North Hennepin Community College
+ 
  Fall Semester 2026
+ 
  Course: CSCI 2011-51 Programming in Python
+ 
  Author:  Julia Lee GitHub: @leeju09
  
